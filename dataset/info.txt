@@ -1,0 +1,1 @@
+Place all the Sign Language Digit Images downloaded from respective GitHub repo into this folder
