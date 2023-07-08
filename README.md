@@ -167,4 +167,4 @@ Mavi, A., (2020), “A New Dataset and Proposed Convolutional Neural Network Arc
 
 ## Contact
 
-If you have any questions or feedback, please feel free to contact me at [eamil](tajammulbasheer999@gmail.com). We would be happy to hear from you.
+If you have any questions or feedback, please feel free to contact me at [email](tajammulbasheer999@gmail.com). We would be happy to hear from you.
