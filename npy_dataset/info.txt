@@ -1,2 +1,2 @@
-This folder contains the numpy files for train and test sets created by running the images_arrays.py.
+This folder contains the numpy files for train and test sets created by running the images_arrays.py. These files will also get created if you run any vanila model notebook.
 This numpy dataset is used by the vanila models as the can't directly process images
