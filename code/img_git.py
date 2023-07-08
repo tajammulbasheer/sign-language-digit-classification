@@ -1,4 +1,4 @@
-''' ploting images from training set  '''
+''' ploting images for github readme  '''
 import os
 import random
 import matplotlib.pyplot as plt
