@@ -83,7 +83,7 @@ def main():
     history = model_fit(model,train_batches,valid_batches) 
     predictions = model.predict(x=test_batches, verbose=0)
 
-    # plot_training()
+    plot_training()
     y_pred=predictions.argmax(axis=1)
     plot_confusion(test_labels,y_pred)
 
