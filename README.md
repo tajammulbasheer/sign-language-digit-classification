@@ -8,6 +8,8 @@
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Acknowledgment](acknowledgment)
+- [Contact](contact)
 
 ## Overview
 
